@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-Contactar-informational?logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin"/></a>
+  <a href="mailto:widsonrodrigues3@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-informational?logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/widsonaraujo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin"/></a>
   <a href="https://github.com/Widson64x?tab=followers"><img src="https://img.shields.io/github/followers/Widson64x?label=Seguidores&style=flat"/></a>
   <img src="https://komarev.com/ghpvc/?username=Widson64x&label=Profile%20Views"/>
 </p>
@@ -101,6 +101,7 @@
 ## 📫 Contact
 - ✉️ Email: **widsonrodrigues3@gmail.com**
 - 💼 LinkedIn: **Widson Rodrigues**
+
 
 
 
