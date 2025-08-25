@@ -48,7 +48,6 @@
 - **Backend & APIs** — Flask blueprints, auth, middlewares, pagination, error handling, caching, file upload, export.
 - **ETL & Data Pipelines** — ingest (PDF/Excel/SQL), **data cleaning**, normalização, KPIs e relatórios automatizados.
 - **Automation** — batch jobs, schedulers, file watchers, integrações internas/externas.
-- **DevOps / CI‑CD** — GitHub Actions, testes/linters, **Gunicorn + systemd**, containerization (Docker).
 - **Observability** — logs estruturados, métricas/health, alerts; post‑mortems curtos e acionáveis.
 - **Security basics** — .env/secret management, least‑privilege, backup/retention e hardening básico.
 
@@ -101,6 +100,7 @@
 ## 📫 Contact
 - ✉️ Email: **widsonrodrigues3@gmail.com**
 - 💼 LinkedIn: **Widson Rodrigues**
+
 
 
 
