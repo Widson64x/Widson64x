@@ -84,9 +84,8 @@
 
 | Project | Preview | Stack |
 |---|---|---|
-| Flask CRM | <a href="./assets/sales-funnel.png"><img src="./assets/sales-funnel.png" alt="sales-funnel" height="64"/></a> | Flask • Pandas • PostgreSQL • Actions |
-| LuftDocs | <a href="./assets/logo-claro.png"><img src="./assets/logo-claro.png" alt="Luft-Docs" height="64"/></a> | Pandas • Matplotlib • OpenPyXL |
-
+| Flask CRM | <a href="./assets/sales-funnel.png"><img src="./assets/sales-funnel.png" alt="sales-funnel" height="64"/></a> | Flask • Ploty • PostgreSQL • Pandas |
+| LuftDocs | <a href="./assets/luft-docs.png"><img src="./assets/luft-docs.png" alt="Luft-Docs" height="56"/></a> | Flask • Bootstrap • Markdown • IA |
 
 ---
 
@@ -100,6 +99,7 @@
 ## 📫 Contact
 - ✉️ Email: **widsonrodrigues3@gmail.com**
 - 💼 LinkedIn: **Widson Rodrigues**
+
 
 
 
