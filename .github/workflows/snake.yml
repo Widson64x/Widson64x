@@ -5,17 +5,18 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # permite criar/atualizar a branch 'output'
+  contents: write   # autoriza criar/atualizar a branch 'output'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Widson64x
           outputs: |
             dist/snake.svg
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
