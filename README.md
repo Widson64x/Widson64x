@@ -1,9 +1,11 @@
 <!-- PERFIL: Widson64x/Widson64x -->
 <h1 align="center">🚀 Widson Rodrigues • <em>Widson64x</em></h1>
 <p align="center">
-  <strong>Python • Flask • Data • Automation • DevOps</strong><br/>
-  Systems Trainee @ <b>LUFT</b> — backend, data pipelines, APIs e deploy confiável.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&center=true&vCenter=true&width=900&lines=Backend+%E2%80%A2+APIs+%E2%80%A2+Data+Ops+%E2%80%A2+Automation+%E2%80%A2+CI%2FCD;Python+%2B+Flask+%7C+Pandas+%7C+PostgreSQL+%7C+Docker+%7C+Actions;Shipping+fast%2C+clean+and+reliable+code" alt="Typing SVG" />
+  </a>
 </p>
+
 
 <p align="center">
   <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-Contactar-informational?logo=gmail"/></a>
@@ -103,3 +105,4 @@
 - 💼 LinkedIn: **SEU_LINKEDIN_AQUI**
 
 <p align="center">Feito com <b>Python</b> 🐍, <b>Flask</b> ⚗️ e mindset de engenharia: simples, legível e pronto pra produção.</p>
+
