@@ -76,7 +76,6 @@
 ---
 
 ## 🧩 Metrics Poster
-<!-- Gerado por workflow e comitado como `metrics.svg`. (Instruções no repositório) -->>
 <p align="center">
   <img src="./metrics.svg" alt="metrics (auto)" />
 </p>
@@ -94,7 +93,6 @@
 ---
 
 ## 🐍 Contributions Snake
-> O SVG é gerado pelo workflow `snake.yml` e publicado na branch `output`.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Widson64x/Widson64x/output/snake.svg" alt="snake" />
 </p>
@@ -104,5 +102,6 @@
 ## 📫 Contact
 - ✉️ Email: **widsonrodrigues3@gmail.com**
 - 💼 LinkedIn: **Widson Rodrigues**
+
 
 
