@@ -105,4 +105,3 @@
 - 💼 LinkedIn: **SEU_LINKEDIN_AQUI**
 
 <p align="center">Feito com <b>Python</b> 🐍, <b>Flask</b> ⚗️ e mindset de engenharia: simples, legível e pronto pra produção.</p>
-
