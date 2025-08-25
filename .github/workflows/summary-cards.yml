@@ -11,10 +11,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Widson64x
-          BRANCH_NAME: main   # ajuste se seu branch padrão for 'master'
+          BRANCH_NAME: main     # se seu default for 'master', troque aqui e no README
           EXCLUDE: issues
