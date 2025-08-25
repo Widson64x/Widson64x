@@ -1,11 +1,11 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda todo dia 00:00 UTC
+    - cron: "0 0 * * *"   # diário 00:00 UTC
   workflow_dispatch:
 
 permissions:
-  contents: write   # autoriza criar/atualizar a branch 'output'
+  contents: write   # precisa para criar/atualizar a branch 'output'
 
 jobs:
   build:
