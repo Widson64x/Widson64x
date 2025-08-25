@@ -1,27 +1,28 @@
 <!-- PERFIL: Widson64x/Widson64x -->
 <h1 align="center">🚀 Widson Rodrigues • <em>Widson64x</em></h1>
 <p align="center">
-  <strong>Python • Flask • Dados • Automação • DevOps</strong><br/>
-  Torre de Controle @ LUFT | UNIP CC | Sistemas que economizam tempo e dão visibilidade ponta-a-ponta.
+  <strong>Python • Flask • Data • Automation • DevOps</strong><br/>
+  Systems Trainee @ <b>LUFT</b> — backend, data pipelines, APIs e deploy confiável.
 </p>
 
 <p align="center">
   <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-Contactar-informational?logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin"/></a>
   <a href="https://github.com/Widson64x?tab=followers"><img src="https://img.shields.io/github/followers/Widson64x?label=Seguidores&style=flat"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Widson64x&label=Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=Widson64x&label=Profile%20Views"/>
 </p>
 
 ---
 
-## ⚡ Quem eu sou
+## ⚡ Professional Summary
 
-- 🧭 Trabalho na **LUFT (Distribuição / Torre de Controle)**: CTC/NF, roteirização e soluções.
-- 🧪 Crio **apps web** com **Python + Flask** e **dashboards** com **Pandas + Matplotlib**.
-- 🛠️ Faço **ETL/integrações**, automações e **deploy** (Gunicorn + systemd | GitHub Actions | Docker).
-- 🎮 Paralelo: **Android/libGDX** e sites.
+- **Systems Trainee (Engineering track)** na LUFT, focado em **backend (Python/Flask)**, **APIs (REST)**, **ETL/data ops**, **automation** e **CI/CD**.
+- Desenvolvimento de **internal tools**: upload/extraction (PDF/Excel), **dashboards** e serviços de comparação/regras de negócio.
+- Integrações com **SQL (PostgreSQL/SQLite)** e **Python data stack** (Pandas/Matplotlib).
+- **Deployment** em Linux com **Gunicorn + systemd**, **Docker** e **GitHub Actions** — foco em confiabilidade.
+- **Observability-first**: logging estruturado, métricas, healthchecks e documentação objetiva.
 
-> Visão: **dados + automação** para cortar horas operacionais em minutos.
+> Objetivo: **ship rápido, com qualidade e mensurável** — valor em produção.
 
 ---
 
@@ -41,15 +42,22 @@
   <img title="HTML5" alt="HTML5" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img title="CSS3" alt="CSS3" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img title="JavaScript" alt="JavaScript" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img title="Android" alt="Android" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
-  <img title="Java" alt="Java" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </p>
 
 ---
 
-## 📊 Stats & Gráficos
+## 🧠 Core Capabilities
 
-> *Estes gráficos são imagens dinâmicas. Só manter as URLs abaixo que atualizam sozinhas.*
+- **Backend & APIs** — Flask blueprints, auth, middlewares, pagination, error handling, caching.
+- **ETL & Data Pipelines** — ingestão (PDF/Excel/SQL), **data cleaning**, normalização, KPIs e relatórios exportáveis.
+- **Automation** — batch jobs, schedulers, file watchers, integração com serviços internos.
+- **DevOps / CI-CD** — GitHub Actions, testes, linters, **Gunicorn + systemd**, containerization com Docker.
+- **Observability** — logging estruturado, métricas, **health/probes**, troubleshooting e post-mortems curtos.
+- **Security basics** — .env/secret management, least-privilege, backups/retention e hardening básico.
+
+---
+
+## 📊 Stats & Graphs (auto)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Widson64x&show_icons=true&theme=transparent&rank_icon=github"/>
@@ -70,37 +78,28 @@
 
 ---
 
-## 🔥 O que eu entrego (em cards)
+## 🗂️ Selected Work (visual)
 
-- **Automação de Processos**: scripts e bots que reduzem tempo operacional.
-- **APIs e Apps Flask**: autenticação, upload, extração de PDF, dashboards.
-- **ETL & Dados**: limpeza, normalização e comparativos (KPIs operacionais).
-- **DevOps**: deploy em Linux com **Gunicorn + systemd**, Docker e **GitHub Actions**.
+> Adicione prints/GIFs na pasta `assets/` deste repo e referencie abaixo.
 
----
-
-## 🗂️ Mini Portfólio Visual
-
-> Adicione prints/GIFs dos seus principais sistemas (pasta `assets/` neste repo).
-
-| Projeto | Preview | Stack |
+| Project | Preview | Stack |
 |---|---|---|
-| Nexus | *(adicione GIF/PNG: `./assets/nexus.png`)* | Flask • PostgreSQL • Gunicorn • Actions |
-| Script Aéreo | *(adicione GIF/PNG)* | Flask • Pandas • Matplotlib |
-| Comparativo Aéreo | *(adicione GIF/PNG)* | Pandas • Regras de negócio |
+| Internal Tools (Flask) | *(adicione GIF/PNG: `./assets/internal-tools.png`)* | Flask • Pandas • PostgreSQL • Actions |
+| PDF → Excel & KPIs | *(adicione GIF/PNG)* | Pandas • Matplotlib • OpenPyXL |
+| Comparativos / Rules Engine | *(adicione GIF/PNG)* | Python • ETL • Business Rules |
 
 ---
 
-## 🐍 Snake das contribuições
-> O SVG é gerado por um workflow. Depois que você criar o `snake.yml` (instruções abaixo, na conversa), esta imagem passa a aparecer aqui:
-  
+## 🐍 Contributions Snake
+> O SVG é gerado por workflow (veja instruções no repositório).
+
 ![snake gif](https://raw.githubusercontent.com/Widson64x/Widson64x/output/snake.svg)
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-- ✉️ E-mail: **SEU_EMAIL_AQUI**
+- ✉️ Email: **SEU_EMAIL_AQUI**
 - 💼 LinkedIn: **SEU_LINKEDIN_AQUI**
 
-<p align="center">Feito com <b>Python</b> 🐍, <b>Flask</b> ⚗️ e foco em resolver problemas reais.</p>
+<p align="center">Feito com <b>Python</b> 🐍, <b>Flask</b> ⚗️ e mindset de engenharia: simples, legível e pronto pra produção.</p>
