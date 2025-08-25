@@ -84,9 +84,8 @@
 
 | Project | Preview | Stack |
 |---|---|---|
-| Internal Tools (Flask) | <a href="./assets/sales-funnel.png"><img src="./assets/sales-funnel.png" alt="sales-funnel" height="64"/></a> | Flask • Pandas • PostgreSQL • Actions |
-| PDF → Excel & KPIs | *(adicione `./assets/pdf-excel-kpis.gif`)* | Pandas • Matplotlib • OpenPyXL |
-| Comparativos / Rules Engine | *(adicione `./assets/rules-engine.png`)* | Python • ETL • Business Rules |
+| Flask CRM | <a href="./assets/sales-funnel.png"><img src="./assets/sales-funnel.png" alt="sales-funnel" height="64"/></a> | Flask • Pandas • PostgreSQL • Actions |
+| LuftDocs | <a href="./assets/logo-claro.png"><img src="./assets/logo-claro.png" alt="Luft-Docs" height="64"/></a> | Pandas • Matplotlib • OpenPyXL |
 
 
 ---
@@ -101,6 +100,7 @@
 ## 📫 Contact
 - ✉️ Email: **widsonrodrigues3@gmail.com**
 - 💼 LinkedIn: **Widson Rodrigues**
+
 
 
 
