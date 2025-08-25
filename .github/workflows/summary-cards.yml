@@ -16,5 +16,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Widson64x
-          BRANCH_NAME: main
+          BRANCH_NAME: main   # ajuste se seu branch padrão for 'master'
           EXCLUDE: issues
