@@ -20,7 +20,6 @@
   <img title="Matplotlib" alt="Matplotlib" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
   <img title="PostgreSQL" alt="PostgreSQL" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img title="SQLite" alt="SQLite" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-  <img title="Docker" alt="Docker" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img title="GitHub Actions" alt="GitHub Actions" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"/>
   <img title="Linux" alt="Linux" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img title="Windows" alt="Windows" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
@@ -150,3 +149,4 @@ git push -u origin main
 ```
 
 > **Troque** `SEU_EMAIL_AQUI` e `SEU_LINKEDIN_AQUI` pelos seus dados. Se quiser, me peça que eu já preencha tudo e mando pronto. 😉
+
