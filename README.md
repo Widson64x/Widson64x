@@ -77,19 +77,9 @@
 ---
 
 ## 🧩 Metrics Poster
-> Gerado por workflow e comitado como `metrics.svg`. (Instruções abaixo)
+> Gerado por workflow e comitado como `metrics.svg`. (Instruções no repositório)
 <p align="center">
   <img src="./metrics.svg" alt="metrics (auto)" />
-</p>
-
----
-
-## 🧾 Profile Summary Cards
-> Gerados por workflow em `profile-summary-card-output/github/`.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Widson64x/Widson64x/main/profile-summary-card-output/github/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/Widson64x/Widson64x/main/profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/Widson64x/Widson64x/main/profile-summary-card-output/github/3-stats.svg" />
 </p>
 
 ---
@@ -113,14 +103,8 @@
 
 ---
 
-## ⏱️ Weekly Coding Stats (WakaTime)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 📫 Contact
-- ✉️ Email: **SEU_EMAIL_AQUI**
-- 💼 LinkedIn: **SEU_LINKEDIN_AQUI**
+- ✉️ Email: **widsonrodrigues3@gmail.com**
+- 💼 LinkedIn: **Widson Rodrigues**
 
 <p align="center">Feito com <b>Python</b> 🐍, <b>Flask</b> ⚗️ e disciplina de engenharia — simples, legível e pronto pra produção.</p>
