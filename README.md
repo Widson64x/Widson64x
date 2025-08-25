@@ -76,7 +76,7 @@
 ---
 
 ## 🧩 Metrics Poster
-> Gerado por workflow e comitado como `metrics.svg`. (Instruções no repositório)
+<!-- Gerado por workflow e comitado como `metrics.svg`. (Instruções no repositório) -->>
 <p align="center">
   <img src="./metrics.svg" alt="metrics (auto)" />
 </p>
@@ -84,7 +84,6 @@
 ---
 
 ## 🗂️ Selected Work (visual)
-> Adicione prints/GIFs na pasta `assets/` deste repo e referencie abaixo.
 
 | Project | Preview | Stack |
 |---|---|---|
@@ -106,5 +105,4 @@
 - ✉️ Email: **widsonrodrigues3@gmail.com**
 - 💼 LinkedIn: **Widson Rodrigues**
 
-<p align="center">Feito com <b>Python</b> 🐍, <b>Flask</b> ⚗️ e disciplina de engenharia — simples, legível e pronto pra produção.</p>
 
