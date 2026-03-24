@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ Resumo Profissional
+## Resumo Profissional
 
 - **Trainee de Sistemas** @ LUFT — Foco em **Backend (Python/Flask/FastAPI)**, **APIs REST**, **Integração de Dados (ETL)**, **Automação** e **CI/CD**.
 - 🎓 Estudante de **Ciência da Computação** na UNIP, com forte interesse em inovação, Inteligência Artificial (LLMs) e desenvolvimento de soluções inteligentes.
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧰 Minhas Ferramentas
+## Minhas Ferramentas
 <p>
   <img title="Python" alt="Python" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img title="Flask" alt="Flask" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
@@ -43,7 +43,7 @@
 
 ---
 
-## 🧠 Minhas Especialidades
+## Minhas Especialidades
 - **Backend & APIs** — Construção de APIs com Flask e FastAPI, autenticação, middlewares, paginação, tratamento de erros e gestão de arquivos.
 - **Engenharia de Dados & ETL** — Ingestão de dados (PDF/Excel/SQL), limpeza de dados, normalização com Pandas/DuckDB e geração de relatórios automatizados.
 - **Automação & Infra** — Jobs em lote (batch jobs), agendadores, monitoramento de arquivos e integrações de sistemas.
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Widson64x&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Widson64x&layout=compact&theme=transparent&locale=pt-br"/>
@@ -72,14 +72,14 @@
 
 ---
 
-## 🧩 Visão Geral de Métricas
+## Visão Geral de Métricas
 <p align="center">
   <img src="./metrics.svg" alt="metrics (auto)" />
 </p>
 
 ---
 
-## 🗂️ Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Preview | Stack Principal |
 |---|---|---|
@@ -88,13 +88,13 @@
 
 ---
 
-## 🐍 Minhas Contribuições
+## Minhas Contribuições
 <p align="center">
   <img src="https://raw.githubusercontent.com/Widson64x/Widson64x/output/snake.svg" alt="snake" />
 </p>
 
 ---
 
-## 📫 Contato
+## Contato
 - ✉️ Email: **widsonrodrigues3@gmail.com**
 - 💼 LinkedIn: **Widson Rodrigues**
