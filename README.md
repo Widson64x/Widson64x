@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Widson64x&label=Visualizações%20do%20Perfil"/>
 </p>
 
----
+
 
 ## Resumo Profissional
 
@@ -25,7 +25,7 @@
 
 > **Objetivo:** Entregar valor real em produção com código limpo, escalável e mensurável.
 
----
+
 
 ## Minhas Ferramentas
 <p>
@@ -41,7 +41,7 @@
   <img title="JavaScript" alt="JavaScript" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </p>
 
----
+
 
 ## Minhas Especialidades
 - **Backend & APIs** — Construção de APIs com Flask e FastAPI, autenticação, middlewares, paginação, tratamento de erros e gestão de arquivos.
@@ -50,7 +50,7 @@
 - **Observabilidade** — Logs estruturados, monitoramento de saúde das aplicações (healthchecks), alertas e post-mortems objetivos.
 - **Segurança Básica** — Gestão de variáveis de ambiente (.env), princípio do menor privilégio e hardening básico de servidores.
 
----
+
 
 ## Estatísticas do GitHub
 <p align="center">
@@ -70,30 +70,30 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Widson64x&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
----
+
 
 ## Visão Geral de Métricas
 <p align="center">
   <img src="./metrics.svg" alt="metrics (auto)" />
 </p>
 
----
+
 
 ## Projetos em Destaque
 
 | Projeto | Preview | Stack Principal |
-|---|---|---|
+||||
 | **Flask CRM** | <a href="./assets/sales-funnel.png"><img src="./assets/sales-funnel.png" alt="sales-funnel" height="64"/></a> | Flask • Plotly • PostgreSQL • Pandas |
 | **LuftDocs** | <a href="./assets/luft-docs.png"><img src="./assets/luft-docs.png" alt="Luft-Docs" height="56"/></a> | Flask • Bootstrap • Markdown • IA |
 
----
+
 
 ## Minhas Contribuições
 <p align="center">
   <img src="https://raw.githubusercontent.com/Widson64x/Widson64x/output/snake.svg" alt="snake" />
 </p>
 
----
+
 
 ## Contato
 - ✉️ Email: **widsonrodrigues3@gmail.com**
