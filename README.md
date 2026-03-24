@@ -14,12 +14,11 @@
 
 ## Resumo Profissional
 
-- **Trainee de Sistemas** @ LUFT — Foco em **Backend (Python/Flask/FastAPI)**, **APIs REST**, **Integração de Dados (ETL)**, **Automação** e **CI/CD**.
-- Estudante de **Ciência da Computação** na UNIP, com forte interesse em inovação, Inteligência Artificial (LLMs) e desenvolvimento de soluções inteligentes.
-- Construção de **ferramentas internas**: desde módulos de controle financeiro (Real x Orçado), extração de dados (PDF/Excel) até dashboards interativos.
-- Integrações robustas com **SQL (PostgreSQL, SQL Server, DuckDB)** e stack de dados em Python.
-- **Deployment** focado em confiabilidade usando **Docker**, **Linux (Gunicorn + systemd)** e **GitHub Actions**.
-- **Cultura de Observabilidade**: logs estruturados, métricas, healthchecks e documentação enxuta para troubleshooting rápido.
+- **Trainee de Sistemas** no departamento de TI da LUFT, com forte foco em **Inovação e Desenvolvimento**. Atuo na construção de soluções ponta a ponta envolvendo **Backend (Python/Flask/FastAPI)**, **APIs REST**, e **Integração de Dados (ETL)**.
+- 🎓 Estudante de **Ciência da Computação** na UNIP. Entusiasta de **Inteligência Artificial (AGI e LLMs)**, explorando ativamente integrações e modelos para otimização de documentações e processos.
+- Experiência prática na criação de **ferramentas internas** estratégicas, como o módulo de controle "Real x Orçado" (Luft Control) e sistemas de monitoramento de infraestrutura (conexões RDP).
+- Versatilidade com bancos de dados relacionais e analíticos (**PostgreSQL, SQL Server, DuckDB**) e deployment focado em confiabilidade utilizando **Docker** e **Linux (Gunicorn + systemd)**.
+- Desenvolvedor multidisciplinar: além do ecossistema Python, construo aplicações pessoais de gestão financeira (ApexFin/Nexus) e exploro o ecossistema **C#/.NET** e desenvolvimento na engine **Unity**.
 
 ## Minhas Ferramentas
 <p>
@@ -36,11 +35,11 @@
 </p>
 
 ## Minhas Especialidades
-- **Backend & APIs** — Construção de APIs com Flask e FastAPI, autenticação, middlewares, paginação, tratamento de erros e gestão de arquivos.
-- **Engenharia de Dados & ETL** — Ingestão de dados (PDF/Excel/SQL), limpeza de dados, normalização com Pandas/DuckDB e geração de relatórios automatizados.
-- **Automação & Infra** — Jobs em lote (batch jobs), agendadores, monitoramento de arquivos e integrações de sistemas.
-- **Observabilidade** — Logs estruturados, monitoramento de saúde das aplicações (healthchecks), alertas e post-mortems objetivos.
-- **Segurança Básica** — Gestão de variáveis de ambiente (.env), princípio do menor privilégio e hardening básico de servidores.
+- **Backend & APIs** — Construção de APIs robustas e escaláveis com Python (Flask e FastAPI) e exploração do ecossistema C#, focando em rotas limpas, autenticação e gestão de arquivos.
+- **Inteligência Artificial Aplicada** — Integração com APIs de LLMs (como Gemini e GROQ) e configuração de ambientes como Open WebUI para potencializar ferramentas e documentação inteligente.
+- **Engenharia de Dados & ETL** — Ingestão e limpeza de dados (PDF/Excel/SQL), normalização de bases com Pandas e DuckDB para geração de KPIs e relatórios financeiros automatizados.
+- **Automação & Infraestrutura** — Criação de scripts para monitoramento de servidores (batch jobs, schedulers, watchers) e orquestração de ambientes utilizando Docker.
+- **Observabilidade & Segurança** — Logs estruturados, monitoramento de saúde das aplicações (healthchecks), gestão segura de variáveis (.env) e post-mortems objetivos.
 
 ## Estatísticas do GitHub
 <p align="center">
