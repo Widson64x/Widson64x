@@ -15,7 +15,7 @@
 ## Resumo Profissional
 
 - **Trainee de Sistemas** no departamento de TI da LUFT, com forte foco em **Inovação e Desenvolvimento**. Atuo na construção de soluções ponta a ponta envolvendo **Backend (Python/Flask/FastAPI)**, **APIs REST**, e **Integração de Dados (ETL)**.
-- 🎓 Estudante de **Ciência da Computação** na UNIP. Entusiasta de **Inteligência Artificial (AGI e LLMs)**, explorando ativamente integrações e modelos para otimização de documentações e processos.
+- Estudante de **Ciência da Computação** na UNIP. Entusiasta de **Inteligência Artificial (AGI e LLMs)**, explorando ativamente integrações e modelos para otimização de documentações e processos.
 - Experiência prática na criação de **ferramentas internas** estratégicas, como o módulo de controle "Real x Orçado" (Luft Control) e sistemas de monitoramento de infraestrutura (conexões RDP).
 - Versatilidade com bancos de dados relacionais e analíticos (**PostgreSQL, SQL Server, DuckDB**) e deployment focado em confiabilidade utilizando **Docker** e **Linux (Gunicorn + systemd)**.
 - Desenvolvedor multidisciplinar: além do ecossistema Python, construo aplicações pessoais de gestão financeira (ApexFin/Nexus) e exploro o ecossistema **C#/.NET** e desenvolvimento na engine **Unity**.
