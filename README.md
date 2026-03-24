@@ -67,10 +67,10 @@
 
 ## Projetos em Destaque
 
-| Projeto | Preview | Stack Principal |
-||||
-| **Flask CRM** | <a href="./assets/sales-funnel.png"><img src="./assets/sales-funnel.png" alt="sales-funnel" height="64"/></a> | Flask • Plotly • PostgreSQL • Pandas |
-| **LuftDocs** | <a href="./assets/luft-docs.png"><img src="./assets/luft-docs.png" alt="Luft-Docs" height="56"/></a> | Flask • Bootstrap • Markdown • IA |
+| Project | Preview | Stack |
+|---|---|---|
+| Flask CRM | <a href="./assets/sales-funnel.png"><img src="./assets/sales-funnel.png" alt="sales-funnel" height="64"/></a> | Flask • Ploty • PostgreSQL • Pandas |
+| LuftDocs | <a href="./assets/luft-docs.png"><img src="./assets/luft-docs.png" alt="Luft-Docs" height="56"/></a> | Flask • Bootstrap • Markdown • IA |
 
 ## Minhas Contribuições
 <p align="center">
