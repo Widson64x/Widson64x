@@ -15,7 +15,7 @@
 ## Resumo Profissional
 
 - **Trainee de Sistemas** @ LUFT — Foco em **Backend (Python/Flask/FastAPI)**, **APIs REST**, **Integração de Dados (ETL)**, **Automação** e **CI/CD**.
-- 🎓 Estudante de **Ciência da Computação** na UNIP, com forte interesse em inovação, Inteligência Artificial (LLMs) e desenvolvimento de soluções inteligentes.
+- Estudante de **Ciência da Computação** na UNIP, com forte interesse em inovação, Inteligência Artificial (LLMs) e desenvolvimento de soluções inteligentes.
 - Construção de **ferramentas internas**: desde módulos de controle financeiro (Real x Orçado), extração de dados (PDF/Excel) até dashboards interativos.
 - Integrações robustas com **SQL (PostgreSQL, SQL Server, DuckDB)** e stack de dados em Python.
 - **Deployment** focado em confiabilidade usando **Docker**, **Linux (Gunicorn + systemd)** e **GitHub Actions**.
