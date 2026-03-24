@@ -1,8 +1,7 @@
-<!-- PROFILE: Widson64x/Widson64x -->
-<h1 align="center">🚀 Widson Rodrigues • <em>Widson64x</em></h1>
+<h1 align="center">🚀 Widson Rodrigues • <em>@widson.dev</em></h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&center=true&vCenter=true&width=900&lines=Backend+%E2%80%A2+APIs+%E2%80%A2+Data+Ops+%E2%80%A2+Automation+%E2%80%A2+CI%2FCD;Python+%2B+Flask+%7C+Pandas+%7C+PostgreSQL+%7C+Docker+%7C+Actions;Shipping+fast%2C+clean+and+reliable+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&center=true&vCenter=true&width=900&lines=Backend+%E2%80%A2+APIs+%E2%80%A2+Dados+%E2%80%A2+Automa%C3%A7%C3%A3o;Python+(Flask%2FFastAPI)+%7C+SQL+%7C+Docker;C%C3%B3digo+limpo%2C+r%C3%A1pido+e+confi%C3%A1vel" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,57 +9,57 @@
   <a href="mailto:widsonrodrigues3@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-informational?logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/widsonaraujo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin"/></a>
   <a href="https://github.com/Widson64x?tab=followers"><img src="https://img.shields.io/github/followers/Widson64x?label=Seguidores&style=flat"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Widson64x&label=Profile%20Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Widson64x&label=Visualizações%20do%20Perfil"/>
 </p>
 
 ---
 
-## ⚡ Professional Summary
+## ⚡ Resumo Profissional
 
-- **Systems Trainee (Engineering track)** @ LUFT — foco em **backend (Python/Flask)**, **REST APIs**, **ETL/Data Ops**, **automation** e **CI/CD**.
-- Construção de **internal tools**: upload/extraction (PDF/Excel), **dashboards** e serviços de comparação/regra de negócio.
-- Integrações com **SQL (PostgreSQL/SQLite)** e **Python data stack** (Pandas/Matplotlib).
-- **Deployment** em Linux com **Gunicorn + systemd**, **Docker** e **GitHub Actions** — confiabilidade e simplicidade.
-- **Observability-first**: logging estruturado, métricas/healthchecks, troubleshooting objetivo e docs enxutas.
+- **Trainee de Sistemas** @ LUFT — Foco em **Backend (Python/Flask/FastAPI)**, **APIs REST**, **Integração de Dados (ETL)**, **Automação** e **CI/CD**.
+- 🎓 Estudante de **Ciência da Computação** na UNIP, com forte interesse em inovação, Inteligência Artificial (LLMs) e desenvolvimento de soluções inteligentes.
+- Construção de **ferramentas internas**: desde módulos de controle financeiro (Real x Orçado), extração de dados (PDF/Excel) até dashboards interativos.
+- Integrações robustas com **SQL (PostgreSQL, SQL Server, DuckDB)** e stack de dados em Python.
+- **Deployment** focado em confiabilidade usando **Docker**, **Linux (Gunicorn + systemd)** e **GitHub Actions**.
+- **Cultura de Observabilidade**: logs estruturados, métricas, healthchecks e documentação enxuta para troubleshooting rápido.
 
-> Objetivo: **ship rápido, com qualidade e mensurável** — valor real em produção.
+> **Objetivo:** Entregar valor real em produção com código limpo, escalável e mensurável.
 
 ---
 
-## 🧰 Tech Stack (com logos)
+## 🧰 Minhas Ferramentas
 <p>
   <img title="Python" alt="Python" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img title="Flask" alt="Flask" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-  <img title="Pandas" alt="Pandas" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <img title="Matplotlib" alt="Matplotlib" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+  <img title="FastAPI" alt="FastAPI" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   <img title="PostgreSQL" alt="PostgreSQL" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img title="SqlServer" alt="SqlServer" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+  <img title="Docker" alt="Docker" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img title="C#" alt="C#" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img title="Linux" alt="Linux" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img title="Windows" alt="Windows" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-  <img title="HTML5" alt="HTML5" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img title="CSS3" alt="CSS3" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img title="Pandas" alt="Pandas" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
   <img title="JavaScript" alt="JavaScript" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </p>
 
 ---
 
-## 🧠 Core Capabilities
-- **Backend & APIs** — Flask blueprints, auth, middlewares, pagination, error handling, caching, file upload, export.
-- **ETL & Data Pipelines** — ingest (PDF/Excel/SQL), **data cleaning**, normalização, KPIs e relatórios automatizados.
-- **Automation** — batch jobs, schedulers, file watchers, integrações internas/externas.
-- **Observability** — logs estruturados, métricas/health, alerts; post‑mortems curtos e acionáveis.
-- **Security basics** — .env/secret management, least‑privilege, backup/retention e hardening básico.
+## 🧠 Minhas Especialidades
+- **Backend & APIs** — Construção de APIs com Flask e FastAPI, autenticação, middlewares, paginação, tratamento de erros e gestão de arquivos.
+- **Engenharia de Dados & ETL** — Ingestão de dados (PDF/Excel/SQL), limpeza de dados, normalização com Pandas/DuckDB e geração de relatórios automatizados.
+- **Automação & Infra** — Jobs em lote (batch jobs), agendadores, monitoramento de arquivos e integrações de sistemas.
+- **Observabilidade** — Logs estruturados, monitoramento de saúde das aplicações (healthchecks), alertas e post-mortems objetivos.
+- **Segurança Básica** — Gestão de variáveis de ambiente (.env), princípio do menor privilégio e hardening básico de servidores.
 
 ---
 
-## 📊 Stats & Graphs (auto)
+## 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Widson64x&show_icons=true&theme=transparent&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Widson64x&layout=compact&theme=transparent"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Widson64x&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Widson64x&layout=compact&theme=transparent&locale=pt-br"/>
 </p>
 
 <p align="center">
-  <img height="185" src="https://streak-stats.demolab.com?user=Widson64x&theme=transparent&hide_border=true"/>
+  <img height="185" src="https://streak-stats.demolab.com?user=Widson64x&theme=transparent&hide_border=true&locale=pt-br"/>
 </p>
 
 <p align="center">
@@ -73,45 +72,29 @@
 
 ---
 
-## 🧩 Metrics Poster
+## 🧩 Visão Geral de Métricas
 <p align="center">
   <img src="./metrics.svg" alt="metrics (auto)" />
 </p>
 
 ---
 
-## 🗂️ Selected Work (visual)
+## 🗂️ Projetos em Destaque
 
-| Project | Preview | Stack |
+| Projeto | Preview | Stack Principal |
 |---|---|---|
-| Flask CRM | <a href="./assets/sales-funnel.png"><img src="./assets/sales-funnel.png" alt="sales-funnel" height="64"/></a> | Flask • Ploty • PostgreSQL • Pandas |
-| LuftDocs | <a href="./assets/luft-docs.png"><img src="./assets/luft-docs.png" alt="Luft-Docs" height="56"/></a> | Flask • Bootstrap • Markdown • IA |
+| **Flask CRM** | <a href="./assets/sales-funnel.png"><img src="./assets/sales-funnel.png" alt="sales-funnel" height="64"/></a> | Flask • Plotly • PostgreSQL • Pandas |
+| **LuftDocs** | <a href="./assets/luft-docs.png"><img src="./assets/luft-docs.png" alt="Luft-Docs" height="56"/></a> | Flask • Bootstrap • Markdown • IA |
 
 ---
 
-## 🐍 Contributions Snake
+## 🐍 Minhas Contribuições
 <p align="center">
   <img src="https://raw.githubusercontent.com/Widson64x/Widson64x/output/snake.svg" alt="snake" />
 </p>
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 - ✉️ Email: **widsonrodrigues3@gmail.com**
 - 💼 LinkedIn: **Widson Rodrigues**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
